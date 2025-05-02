@@ -1,1 +1,1 @@
-# Rocket-Calculations-Pt.-1
+This Calculator is part 1 of 2, and is a simpler version of the second iteration. Essentially what diffrentiates this from the more advanced iteration is simply the fact that this is not reliant on a trained ML model, but rather relies on simple user input, runs through an outsourced calculation using basic arithmetic python functions, then displays an output, which in the end displays the rocket thrust generated based on a group of factors, as well as the Rocket fuel proportionality to the weight of the rocket itself.
